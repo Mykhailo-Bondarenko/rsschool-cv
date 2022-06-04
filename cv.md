@@ -37,7 +37,7 @@ function findOdd(array) {
 **«Kharkiv Polytechnic Institute»**
 #### Chemical Technologies And Engineering
 September 2010 - May 2012
-### Language
+### Languages
 - **English**: Intermediate(B1) [Efset](адрес "https://www.efset.org/cert/YnuCZZ")
 - **Ukrainian**: fluent
 - **Russian**: fluent

@@ -8,7 +8,7 @@
 *  [**Linkedin**](https://linkedin.com/in/mykhailobondarenko)
 ### Skills
 * **HTML, CSS, SASS/SCSS, Git**
-* **JavaScript**
+* **JavaScript, basic TypeScript**
 * **Gulp, BEM**
 * **Figma, Adobe Photoshop**
 * **VSCode**
